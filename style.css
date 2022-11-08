@@ -1,0 +1,345 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  'Lato', sans-serif;
+
+}
+
+body{
+    display:
+    font-family:  'Lato', sans-serif;
+}
+.title {
+    background-color: rgb(27, 23, 110);
+    color:rgb(255, 255, 255);
+    padding-top: 10px;
+    font-size: 10px;
+}
+.title img{
+    width: 150px;
+    margin-left: 20px;
+}
+.title h1{
+    padding-left: 4%;
+}
+.second{
+    background-color:rgb(19, 17, 79);
+    color: rgb(255, 255, 255);
+    margin-top: 0px;
+    padding-top: 50px;
+    width: 100%;
+    padding-left: 20px;
+}
+.second p{
+font-size: 15px;
+
+}
+
+.display2{
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+
+}
+.flex-item-left {
+    background-color: #ffffff;
+    padding: 10px;
+    flex: 70%;
+  }
+  
+  .flex-item-right {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    flex: 30%;
+  }
+
+.button-big-default{
+    margin-top: 30px;
+    background-color: rgb(240, 0, 101);
+    color:rgb(255, 255, 255);
+    margin-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 25px;
+    border: none;
+}
+h2 {
+    font-size: 300%;
+    color: rgb(255, 255, 255);
+}
+h3 {
+    font-size: 250%;
+    color: rgb(0, 0, 0);
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.white-part{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding-right: 20px;
+    padding-left: 3%;
+}
+.white-part p{
+    padding-bottom: 30px;
+}
+.ara{
+    color:rgb(255, 255, 255);
+}
+.pink2{
+    text-align: center;
+    color: white;
+    background-color: rgb(240, 0, 101);
+    width: 100%;
+    height: 30px;
+    margin-top: 40px;
+    border-color: #F61067;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.message-item-onetwo a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    color: white;
+    text-decoration: none;
+}
+.message-item-three a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 20px;
+    background-color:rgb(19, 17, 79);
+    border-radius: 50%;
+    font-size: 16px;
+    color: rgb(19, 17, 79);
+}
+.message-item-three{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 20px;
+    background-color:rgb(19, 17, 79);
+    border-radius: 50%;
+    font-size: 16px;
+    color: rgb(251, 250, 255);
+    margin-left: 5px;
+}
+
+.bla2 h4{
+    font-size: 140%;
+    margin-top: 5%;
+    background-color: rgb(144, 144, 166);
+    width: 300px;
+    text-align: left;
+    align-items: center;
+    width: 100%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    color: white;
+}
+.bla2 p{
+    background-color: rgb(19, 17, 79);
+    color: white;
+    font-size: 90%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    
+
+}
+.blue{
+    background-color: rgb(19, 17, 79);
+    color: white;
+}
+.action{
+    text-align: center;
+    color: rgb(95, 93, 142);
+    background-color: rgb(19, 17, 80);
+    padding-bottom: 20px;
+}
+#fname{
+    color: rgb(253, 253, 255);
+    background-color: rgb(19, 17, 80);
+    width: 90%;
+    padding-left: 3%;
+    padding-right: 3%;
+    height: 30px;
+    border-style: inset;
+    width: 94%;
+}
+.action input{
+    border-top: white;
+    border-bottom: white;
+    border-right: rgb(19, 17, 80);
+    border-left: zero;
+    border-width: 1px;
+}
+.button3 {
+    background-color: rgb(240, 0, 101);
+    color: #f1f1f1;
+    width: 94%;
+    height: 30px;
+    margin-left: 3%;
+    margin-right: 3%;
+    
+}
+.sky p{
+    background-color: rgb(52, 36, 168);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 12%;
+    
+}
+
+.button4{
+    width: 60%;
+    background-color: linear-gradient(to right, red 0%, red 50%,yellow 0%, yellow 50%);
+    margin-top: 10px;
+    background-color: rgb(249, 0, 101);
+    margin-left: 30px;
+    border: none;
+}
+.button5{
+    border: none;
+    width: 24%;
+    background-color: rgb(17, 212, 143);
+}
+
+.last-right{
+    width: 100%;
+    height:18%;
+    border: 1px solid;
+    margin-top: 10px;
+}
+.last-right p{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    font-size: 90%;
+    
+}
+.grey p{
+    background-color: rgb(144, 144, 166);
+    color:#f1f1f1;
+    margin-top: 10px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+}
+.last-last p{
+    background-color: rgb(19, 17, 80);
+    color: #f1f1f1;
+    height: 35px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+}
+
+.image-za{
+    display:flex;
+    flex-wrap: row;
+    margin-top: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+.display-left-item1{
+    background-color: #F61067;
+    padding: 8px;
+    flex: 70%;
+ 
+}
+.display-right-item1{
+    background-color: #2AD392;
+    padding: 8px;
+    flex: 30%
+
+}
+.last_{
+    display:flex;
+    flex-wrap: row;
+    margin-top: 2%;
+
+}
+.display-left-item2{
+    flex: 50%;
+    text-align: center;
+    padding: 5px;
+    
+}
+.display-right-item2{
+    flex: 50%;
+    text-align: center;
+    padding: 5px;
+}
+.button6 {
+    background-color: rgb(249, 0, 101);
+    color:#f1f1f1;
+    text-align: center;
+    width: 97%;
+    height: 25px;
+    font-size: 95%;
+    border-color: #F61067;
+    border-style: hidden;
+}
+.button6:hover {
+    background-color: white;
+    color: rgb(249, 0, 101);
+    border-color: rgb(249, 0, 101);
+    border: rgb(249, 0, 101);
+    border-style: ridge;
+}
+
+    
+.button7 {
+    background-color:#2AD392;
+    color:white;
+    text-align: center;
+    width: 97%;
+    height: 25px;
+    font-size: 95%;
+    border-color: #2AD392;
+    border: #2AD392;
+   
+    
+}
+   .button7:hover {
+    background-color:white;
+    color: #2AD392;
+    border-color: #2AD392;
+    border: #2AD392;
+    border-style: ridge;
+}
+.video {
+   aspect-ratio: 16/9;
+
+   }
+   
+   @media (max-width: 767px) {
+    .second{
+        min-height: auto;
+        padding: 32px 24px;
+    
+    }
+    .flex-item-left{
+        margin: 18px;
+        margin-left: 3%;
+    }
+}
+
+
+@media ( max-width: 730px){
+    .display2{
+        flex-direction: column;
+
+    }
+    
